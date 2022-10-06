@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Adam</h1>
-<h3 align="center">Um estudante viciado em aprender coisas novas</h3>
+<h3 align="center">Um estudante aprendendo coisas novas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamyoshidas&label=Profile%20views&color=0e75b6&style=flat" alt="adamyoshidas" /> </p>
 
