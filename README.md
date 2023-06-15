@@ -1,6 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou Adam</h1>
 
-<p align="center"> Atualmente estou aprendendo: **Python.**
+Atualmente estou aprendendo: **Python**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
